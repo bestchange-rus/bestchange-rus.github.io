@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url><loc>https://bestchange-rus.github.io/</loc><lastmod>2026-11-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://bestchange-rus.github.io/guide.html</loc><lastmod>2026-11-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://bestchange-rus.github.io/security.html</loc><lastmod>2026-11-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://bestchange-rus.github.io/fees.html</loc><lastmod>2026-11-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bestchange-rus.github.io/monitoring.html</loc><lastmod>2026-11-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority><image:image><image:loc>https://bestchange-rus.github.io/img/monitor-2026.jpg</image:loc><image:title>Экран мониторинга BestChange с таблицей курсов</image:title><image:caption>Главная мониторинга: слева направления обмена, справа таблица курсов с резервом и отзывами</image:caption></image:image></url>
+  <url><loc>https://bestchange-rus.github.io/rates.html</loc><lastmod>2026-11-24</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bestchange-rus.github.io/returns.html</loc><lastmod>2026-11-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bestchange-rus.github.io/glossary.html</loc><lastmod>2026-11-24</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://bestchange-rus.github.io/about.html</loc><lastmod>2026-11-24</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://bestchange-rus.github.io/editorial.html</loc><lastmod>2026-11-24</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://bestchange-rus.github.io/contacts.html</loc><lastmod>2026-11-24</lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://bestchange-rus.github.io/privacy.html</loc><lastmod>2026-11-24</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://bestchange-rus.github.io/terms.html</loc><lastmod>2026-11-24</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+</urlset>
